@@ -10,7 +10,9 @@
 
 **粘贴文字，AI自动识别链接，一键下载全网视频**
 
-[📥 下载](#-下载) · [✨ 功能](#-核心功能) · [📖 使用方法](#-使用方法) · [❓ FAQ](#-faq)
+### 🌐 访问首页：[https://opc007.github.io/aikuaixia/](https://opc007.github.io/aikuaixia/)
+
+[🚀 马上使用](https://opc007.github.io/aikuaixia/landing/app.html) · [✨ 功能](#-核心功能) · [📖 使用方法](#-使用方法) · [❓ FAQ](#-faq)
 
 </div>
 
@@ -33,7 +35,7 @@
 ### 📱 多端支持
 - 🍎 iOS / Android 手机端
 - 💻 macOS / Windows / Linux 桌面端
-- 🌐 浏览器扩展（开发中）
+- 🌐 浏览器在线使用
 
 ---
 
@@ -58,6 +60,7 @@
 
 | 平台 | 状态 | 下载 |
 |------|------|------|
+| 🌐 网页版 | ✅ 可用 | [立即使用](https://opc007.github.io/aikuaixia/landing/app.html) |
 | 🍎 iOS | 🔜 即将上线 | - |
 | 🤖 Android | 🔜 即将上线 | - |
 | 💻 macOS | ✅ 可用 | [下载 .dmg]() |
@@ -102,16 +105,11 @@ A: 暂不支持，后续版本会加入此功能。
 
 ---
 
-## 📧 联系我们
-
-- 官网：[aikuaixia.com](https://aikuaixia.com)（即将上线）
-- 邮箱：contact@aikuaixia.com
-
----
-
 <div align="center">
 
 **⭐ 如果觉得好用，请给我们一个 Star！⭐**
+
+🌐 访问首页：[https://opc007.github.io/aikuaixia/](https://opc007.github.io/aikuaixia/)
 
 © 2026 AI快侠. All rights reserved.
 
