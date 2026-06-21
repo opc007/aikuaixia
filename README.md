@@ -65,7 +65,7 @@
 
 | 平台 | 状态 | 下载 |
 |------|------|------|
-| 🌐 网页版 | ✅ 可用 | [立即使用](https://opc007.github.io/ai-kuaixia/landing/app.html) |
+| 🌐 网页版 | ✅ 可用 | [立即使用]([https://opc007.github.io/ai-kuaixia/landing/app.html)](https://aikx.nnaigc.com/web-user/) |
 | 🍎 iOS | 🔜 即将上线 | - |
 | 🤖 Android | 🔜 即将上线 | - |
 | 💻 macOS | ✅ 可用 | [下载 .dmg]() |
@@ -114,7 +114,7 @@ A: 暂不支持，后续版本会加入此功能。
 
 **⭐ 如果觉得好用，请给我们一个 Star！⭐**
 
-🌐 访问首页：[https://opc007.github.io/ai-kuaixia/](https://opc007.github.io/ai-kuaixia/)
+🌐 访问首页：[[https://opc007.github.io/ai-kuaixia/](https://opc007.github.io/ai-kuaixia/)](https://aikx.nnaigc.com/web-user/)
 
 © 2026 AI快侠. All rights reserved.
 
