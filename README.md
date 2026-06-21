@@ -10,9 +10,9 @@
 
 **粘贴文字，AI自动识别链接，一键下载全网视频**
 
-### 🌐 访问首页：[https://opc007.github.io/ai-kuaixia/](https://opc007.github.io/ai-kuaixia/)
+### 🌐 访问首页：(https://aikx.nnaigc.com/web-user/)
 
-[🚀 马上使用](https://opc007.github.io/ai-kuaixia/landing/app.html) · [✨ 功能](#-核心功能) · [📖 使用方法](#-使用方法) · [❓ FAQ](#-faq)
+[🚀 马上使用](https://aikx.nnaigc.com/web-user/ · [✨ 功能](#-核心功能) · [📖 使用方法](#-使用方法) · [❓ FAQ](#-faq)
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/opc007/ai-kuaixia)
 
